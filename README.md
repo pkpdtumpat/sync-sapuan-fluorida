@@ -11,3 +11,5 @@ This is an independent, unofficial productivity extension developed to assist de
 
 ## Contact / Hubungi Pembangun
 For support or inquiries, contact: `pkpd.tumpat@gmail.com`
+
+Effective Date / Tarikh Kuat Kuasa: November 2026
