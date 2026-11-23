@@ -10,6 +10,6 @@ This is an independent, unofficial productivity extension developed to assist de
 4. **Local Preferences:** User settings (WhatsApp message templates, TCA alert thresholds, and linked spreadsheet IDs) are stored solely within Chrome's built-in storage (`chrome.storage`).
 
 ## Contact / Hubungi Pembangun
-For support or inquiries, contact: `pkpd.tumpat@gmail.com`
+For support or inquiries, contact: `syncfvtosheets@gmail.com`
 
 Effective Date / Tarikh Kuat Kuasa: November 2026
