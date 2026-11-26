@@ -9,10 +9,10 @@ This is an independent, unofficial productivity extension developed to assist de
 3. **No Third-Party Servers:** No patient data, personal identifiable information, or Google account tokens are transmitted to, stored on, or shared with any external or third-party servers.
 4. **Local Preferences:** User settings (WhatsApp message templates, TCA alert thresholds, and linked spreadsheet IDs) are stored solely within Chrome's built-in storage (`chrome.storage`).
 
+Effective Date / Tarikh Kuat Kuasa: November 2026
+
 ## Contact / Hubungi Pembangun
 For support or inquiries, contact: `syncfvtosheets@gmail.com`
-
-Effective Date / Tarikh Kuat Kuasa: November 2026
 
 ---
 
