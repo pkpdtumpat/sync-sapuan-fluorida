@@ -13,3 +13,14 @@ This is an independent, unofficial productivity extension developed to assist de
 For support or inquiries, contact: `syncfvtosheets@gmail.com`
 
 Effective Date / Tarikh Kuat Kuasa: November 2026
+
+---
+
+## Changelog / Log Perubahan
+
+### v1.2 (November 2026)
+- **Simplified OAuth Scope (`drive.file`):** Removed the broad `spreadsheets` scope so new users no longer encounter the *"Google hasn't verified this app"* warning screen or the 100-user OAuth cap, while preserving full sync compatibility with existing spreadsheets.
+- **WhatsApp Desktop Emoji Fix:** Switched desktop hyperlink generation from `wa.me` to `api.whatsapp.com/send` with `ENCODEURL` formatting to prevent UTF-8 emoji corruption (``).
+
+### v1.1 (November 2026)
+- Initial public release on Chrome Web Store with Google Drive `Sync Kohort FV` folder integration, Smart Merge, `W1`/`W2` checkboxes, and `NEXT TCA` early warning highlights.
